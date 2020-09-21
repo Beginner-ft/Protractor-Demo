@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 37,
+  "reportUrl" : "nulljob/ProtractorDemo/37/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 1,
+    "retry" : 2
+  }
+} ]

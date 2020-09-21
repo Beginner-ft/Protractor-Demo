@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Protractor Training",
+    "children" : [ {
+      "name" : "Open Angular js website",
+      "uid" : "c3405f598a97652b",
+      "parentUid" : "c2f55ca4e616ffe41634225495c5e631",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600677175847,
+        "stop" : 1600677194051,
+        "duration" : 18204
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "c2f55ca4e616ffe41634225495c5e631"
+  } ]
+}

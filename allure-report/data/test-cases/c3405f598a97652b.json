@@ -1,0 +1,90 @@
+{
+  "uid" : "c3405f598a97652b",
+  "name" : "Open Angular js website",
+  "fullName" : "Protractor Training.Open Angular js website",
+  "historyId" : "3d021099af875e90ad86996b3f9d884",
+  "time" : {
+    "start" : 1600677175847,
+    "stop" : 1600677194051,
+    "duration" : 18204
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Angular js website"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1a491a18e6b7ae78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600408119369,
+        "stop" : 1600408137610,
+        "duration" : 18241
+      }
+    }, {
+      "uid" : "e6d1adb104ad1b7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600359000545,
+        "stop" : 1600359018364,
+        "duration" : 17819
+      }
+    }, {
+      "uid" : "236c1d7a27525441",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600358128579,
+        "stop" : 1600358146488,
+        "duration" : 17909
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "b718ac94d0430f94",
+        "reportUrl" : "nulljob/ProtractorDemo/37/allure/#testresult/b718ac94d0430f94",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600408119369,
+          "stop" : 1600408137610,
+          "duration" : 18241
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "c3405f598a97652b.json",
+  "parameterValues" : [ ]
+}

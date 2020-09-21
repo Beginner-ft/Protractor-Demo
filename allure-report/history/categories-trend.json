@@ -1,0 +1,11 @@
+[ {
+  "buildOrder" : 38,
+  "reportUrl" : "nulljob/ProtractorDemo/38/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 37,
+  "reportUrl" : "nulljob/ProtractorDemo/37/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

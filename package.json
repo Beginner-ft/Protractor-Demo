@@ -1,0 +1,21 @@
+{
+		"name": "Project1POM",
+		"version": "1.0.0",
+		"description": "",
+		"main": "ObjectsPage.js",
+		"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1",
+				"test_case": "protractor configuration.js",
+				"webdriver-update": "./node_modules/.bin/webdriver-manager update",
+				"webdriver-start": "./node_modules/.bin/webdriver-manager start",
+				"start": "test_case&&webdriver-update&&webdriver-start"
+		},
+		"keywords": [],
+		"author": "",
+		"license": "ISC",
+		"dependencies": {
+				"protractor": "^5.4.2",
+				"jasmine-allure-reporter": "1.0.2",
+				"allure-commandline": "2.13.0"
+		}
+}

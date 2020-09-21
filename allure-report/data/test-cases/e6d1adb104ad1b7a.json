@@ -1,0 +1,44 @@
+{
+  "uid" : "e6d1adb104ad1b7a",
+  "name" : "Open Angular js website",
+  "fullName" : "Protractor Training.Open Angular js website",
+  "historyId" : "3d021099af875e90ad86996b3f9d884",
+  "time" : {
+    "start" : 1600359000545,
+    "stop" : 1600359018364,
+    "duration" : 17819
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "testClass",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "testMethod",
+    "value" : "Open Angular js website"
+  }, {
+    "name" : "package",
+    "value" : "Protractor Training"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e6d1adb104ad1b7a.json",
+  "parameterValues" : [ ]
+}

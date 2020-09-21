@@ -1,0 +1,22 @@
+{
+  "3d021099af875e90ad86996b3f9d884" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b718ac94d0430f94",
+      "reportUrl" : "nulljob/ProtractorDemo/37/allure/#testresult/b718ac94d0430f94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600408119369,
+        "stop" : 1600408137610,
+        "duration" : 18241
+      }
+    } ]
+  }
+}

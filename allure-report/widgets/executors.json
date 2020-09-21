@@ -1,0 +1,9 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "buildOrder" : 38,
+  "buildName" : "ProtractorDemo #38",
+  "buildUrl" : "nulljob/ProtractorDemo/38/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "nulljob/ProtractorDemo/38/allure"
+} ]
