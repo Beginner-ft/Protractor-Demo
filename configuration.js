@@ -3,7 +3,8 @@
  */
 exports.config={
 		
-	seleniumAdress: 'http://localhost:4444/wd/hub'	,
+	//seleniumAdress: 'http://localhost:4444/wd/hub'	,
+	directConnect: true,
 	specs:['TesCase1Page.js'],
 
 	onPrepare:function()
