@@ -4,7 +4,8 @@
 exports.config={
 		
 	//seleniumAdress: 'http://localhost:4444/wd/hub'	,
-	directConnect: true,
+	//directConnect: true,
+	seleniumServerJar :'./node_modules/selenium-server-standalone-jar/jar/selenium-server-standalone-3.141.59.jar',
 	specs:['TesCase1Page.js'],
 
 	onPrepare:function()
