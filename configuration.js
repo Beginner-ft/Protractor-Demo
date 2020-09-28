@@ -25,7 +25,7 @@ capabilities:
 	'browserName':'chrome',
 	'goog:chromeOptions': {
 		w3c: false,
-		 args: [ "--headless", "--disable-gpu"]
+		 args: [ "--headless", "--disable-gpu", "--window-size=800,600", "no-sandbox" ]
 	        }
 
 }
