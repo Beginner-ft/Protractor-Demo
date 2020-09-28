@@ -22,10 +22,13 @@ exports.config={
 	
 capabilities:
 {
-	'browserName':'chrome',
+	/*'browserName':'chrome',
 	'goog:chromeOptions': {
 		w3c: false
-	        }
-
+	        }*/
+ 'browserName': 'firefox',
+  'moz:firefoxOptions': {
+    'args': ['--safe-mode']
+  }
 }
 	};
